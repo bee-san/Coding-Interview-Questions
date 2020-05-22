@@ -1,0 +1,3 @@
+FZF
+:Files - find files
+:Rg - rip grep, search all files for a line of code
